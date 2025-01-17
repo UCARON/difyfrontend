@@ -2,7 +2,7 @@
     "rewrites": [
         {
             "source": "/(.*)",
-            "destination": "http://133.18.238.88:13000/$1"
+            "destination": "https://udoh.zapto.org/service13000/$1"
         }
     ]
 }
